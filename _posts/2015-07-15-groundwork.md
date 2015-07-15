@@ -9,15 +9,15 @@ related: []
 app_links: []
 datePublished: '2015-07-15T00:22:51.704Z'
 title: Groundwork
-dateModified: '2015-07-15T00:29:47.533Z'
-sourcePath: _posts/2015-07-15-groundwork.md
-published: true
 authors: []
 publisher:
   name: Constantcontact
   domain: myemail.constantcontact.com
   url: 'http://myemail.constantcontact.com'
   favicon: 'http://myemail.constantcontact.com/favicon.ico'
+dateModified: '2015-07-15T00:28:24.445Z'
+sourcePath: _posts/2015-07-15-groundwork.md
+published: true
 _type: MediaObject
 _context: 'http://schema.org'
 
