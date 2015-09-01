@@ -1,31 +1,54 @@
-name: null
 favicon: null
-layout_spectrum: 0.65121
-typography_spectrum: 0.5
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Transformation
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - filter:
+      notType:
+        type: WebPage
+    index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+  - filter:
+      type:
+        type: Article
+    permalink:
+      path: '/:title/'
+  - filter:
+      type:
+        type: WebPage
+    permalink:
+      path: '/:title/'
+      navigable: true
+purpose:
+  - name: follow
+    url: null
+    item: 1d591f0a-7644-495c-b0bb-58f30eef3314
 color:
+  saturation: 0.9480287
+  brandStrength: 0.4665472
+  lightness: 0.5
   brandColors:
     - '#ffffff'
     - '#452b18'
     - '#d1cbc4'
     - '#837163'
     - '#a2958d'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose:
-  - name: follow
-    item: 1d591f0a-7644-495c-b0bb-58f30eef3314
-    url: null
+  rhythmicContrast: 0.6971326
+layout_spectrum: 0.416368
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
