@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Transformation]]></title>
         <description><![CDATA[Transformation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/transformation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Sep 2015 16:34:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Sep 2015 16:34:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/transformation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bamagreen]]></title>
+            <description><![CDATA[<article><h1>bamagreen</h1><p></p></article>]]></description>
+            <link>http://www.bamagreen.org/</link>
+            <guid isPermaLink="false">1ded7bbf-0918-48d8-b7d0-8150cdd61fc9</guid>
+            <pubDate>Mon, 07 Sep 2015 16:34:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://40.media.tumblr.com/5afd8ed0538ba2cd8bdc20c51516d36f/tumblr_nu2p2uBqon1ryg535o1_1280.jpg">]]></description>
-            <link>undefined2854f6af-b58c-43e6-b937-b757b70c1a5b/index.html</link>
+            <link>https://thegrid.ai/transformation/2854f6af-b58c-43e6-b937-b757b70c1a5b/index.html</link>
             <guid isPermaLink="false">2854f6af-b58c-43e6-b937-b757b70c1a5b</guid>
             <pubDate>Mon, 07 Sep 2015 16:34:03 GMT</pubDate>
         </item>
