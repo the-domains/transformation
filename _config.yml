@@ -1,6 +1,6 @@
 name: Transformation
 favicon: null
-layout_spectrum: 0.416368
+layout_spectrum: 1
 collections:
   - filter:
       notType:
