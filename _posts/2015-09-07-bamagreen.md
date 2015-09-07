@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'http://www.bamagreen.org/'
 title: bamagreen
-datePublished: '2015-09-07T16:34:03.981Z'
-dateModified: '2015-09-07T16:33:01.784Z'
+datePublished: '2015-09-07T16:37:42.215Z'
+dateModified: '2015-09-07T16:34:03.981Z'
 sourcePath: _posts/2015-09-07-bamagreen.md
 published: true
 _context: 'http://schema.org'
