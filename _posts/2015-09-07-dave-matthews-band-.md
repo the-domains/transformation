@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://davematthewsband.com/'
 title: Dave Matthews Band -
-datePublished: '2015-09-07T16:34:04.334Z'
-dateModified: '2015-09-07T16:32:51.222Z'
+datePublished: '2015-09-07T16:37:28.524Z'
+dateModified: '2015-09-07T16:34:04.334Z'
 sourcePath: _posts/2015-09-07-dave-matthews-band-.md
 published: true
 _context: 'http://schema.org'
