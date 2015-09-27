@@ -1,9 +1,7 @@
-favicon: null
 name: Transformation
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.7580644
+typography_spectrum: 1
 collections:
   - filter:
       notType:
@@ -28,28 +26,30 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-purpose:
-  - name: follow
-    url: null
-    item: 1d591f0a-7644-495c-b0bb-58f30eef3314
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 0.6063321
   brandColors:
     - '#ffffff'
     - '#452b18'
     - '#d1cbc4'
     - '#837163'
     - '#a2958d'
+  brandStrength: 0.5
+  lightness: 0.6063321
+  saturation: 1
   rhythmicContrast: 0.8249701
-typography_spectrum: 1
-layout_spectrum: 0.7580644
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose:
+  - name: follow
+    url: null
+    item: 1d591f0a-7644-495c-b0bb-58f30eef3314
