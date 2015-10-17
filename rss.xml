@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Transformation]]></title>
+        <description><![CDATA[Transformation]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 17 Oct 2015 12:56:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA['Divine Conspirator' Dallas Willard Dies at 77]]></title>
+            <description><![CDATA[<article><h1>'Divine Conspirator' Dallas Willard Dies at 77</h1><p>Dallas Willard was on a quiet quest to subvert nominal Christianity.</p><img src="http://www.christianitytoday.com/images/24377.jpg?w=250"></article>]]></description>
+            <link>http://www.christianitytoday.com/ct/2006/september/27.45.html#bmb=1</link>
+            <guid isPermaLink="false">4a2e038b-5a38-4d42-a39b-2aa4a2f657b8</guid>
+            <pubDate>Sat, 17 Oct 2015 12:55:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
