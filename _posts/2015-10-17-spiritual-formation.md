@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:74749f66-ff6d-451f-a712-9e969fff4811'
 author: []
-datePublished: '2015-10-17T12:55:53.723Z'
+datePublished: '2015-11-24T18:42:13.416Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: Spiritual Formation
-dateModified: '2015-10-17T07:46:12.531Z'
+dateModified: '2015-11-21T12:58:17.927Z'
 sourcePath: _posts/2015-10-17-spiritual-formation.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: spiritual-formation/index.html
+inLanguage: null
+starred: false
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
