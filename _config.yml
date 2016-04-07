@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Transformation
 opengraph:
   image: null
   type: null
@@ -46,10 +44,12 @@ color:
     - '#a2958d'
   rhythmicContrast: 0.7150537
 typography_spectrum: 1
+layout_spectrum: 0.6780167
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.7616487
-favicon: null
-name: Transformation
+analytics:
+  twitter: null
+  google: null
+  facebook: null
