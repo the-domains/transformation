@@ -11,10 +11,10 @@ description: © Copyright 2016 Del Dotto Vineyards . A Simply Platformed Site
 app_links: []
 isBasedOnUrl: 'http://www.deldottovineyards.com/'
 title: Del Dotto Vineyards
-datePublished: '2016-05-14T05:13:27.429Z'
-dateModified: '2016-05-14T05:13:27.339Z'
+datePublished: '2016-05-14T05:14:27.842Z'
+dateModified: '2016-05-14T05:14:27.524Z'
 sourcePath: _posts/2016-04-17-del-dotto-vineyards.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
