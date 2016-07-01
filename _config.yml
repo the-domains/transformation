@@ -1,33 +1,8 @@
-typography_spectrum: 1
-style: the-composer
-content_rating:
-  adult: false
-color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 0.5071684
-  brandColors:
-    - '#ffffff'
-    - '#452b18'
-    - '#d1cbc4'
-    - '#837163'
-    - '#a2958d'
-  rhythmicContrast: 0.7150537
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.6780167
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Transformation
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
+title: Kick at the indifference till it bleeds life
+purpose:
+  - name: follow
+    url: null
+    item: ef7d7289-9bad-4567-af4e-763edb96c898
 collections:
   - filter:
       notType:
@@ -52,8 +27,33 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-title: Kick at the indifference till it bleeds life
-purpose:
-  - name: follow
-    url: null
-    item: ef7d7289-9bad-4567-af4e-763edb96c898
+color:
+  saturation: 1
+  brandStrength: 0
+  rhythmicContrast: 0.7150537
+  brandColors:
+    - '#ffffff'
+    - '#452b18'
+    - '#d1cbc4'
+    - '#837163'
+    - '#a2958d'
+  lightness: 0.5071684
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Transformation
+style: the-composer
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.532258
+content_rating:
+  adult: false
